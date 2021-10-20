@@ -1,4 +1,4 @@
-## Context API
+# Context API
 
 ### 하위 컴포넌트 전체에 데이터를 공유하는 법 <br>
 - 데이터를 Set 하는 법
